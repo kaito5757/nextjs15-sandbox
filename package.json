@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "postinstall": "npx only-allow pnpm"
+    "preinstall": "npx only-allow pnpm",
+    "prebuild": "npx only-allow pnpm",
+    "predev": "npx only-allow pnpm"
   },
   "dependencies": {
     "react": "19.0.0-rc-69d4b800-20241021",
