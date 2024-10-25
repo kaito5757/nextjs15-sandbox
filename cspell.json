@@ -1,3 +1,10 @@
 {
-  "words": ["nextjs", "preinstall", "predev", "tailwindcss"]
+  "words": [
+    "nextjs",
+    "preinstall",
+    "predev",
+    "tailwindcss",
+    "codemod",
+    "codemods"
+  ]
 }
